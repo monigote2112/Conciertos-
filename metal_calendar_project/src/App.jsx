@@ -7,7 +7,12 @@ const events = [
     { date: "2026-02-06", band: "FORBIDDEN + VIOLENCE + VENOM INC", city: "Teatro Coliseo" },
   { date: "2026-02-12", band: "Enforcer", city: "Club Ambar" },
   { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
+    { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
+  { date: "2026-03-07", band: "Epic rock fest", city: "Club Hipico" },
+  { date: "2026-03-13", band: "DRI", city: "Teatro Caupolican" },
+  { date: "2026-03-14", band: "Nile", city: "Teatro Cariola" },
   
+
 
 ];
 
