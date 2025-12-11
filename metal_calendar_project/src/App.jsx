@@ -4,18 +4,22 @@ const events = [
   { date: "2026-01-12", band: "Corrosion Of Comformity", city: "Sala Metronomo" },
   { date: "2026-01-15", band: "Cynic", city: "Blondie" },
     { date: "2026-01-17", band: "DEATH + Destruction", city: "Teatro Caupolican" },
+      { date: "2026-01-20", band: "TERROR", city: "Sala Metronomo" },
     { date: "2026-02-06", band: "FORBIDDEN + VIOLENCE + VENOM INC", city: "Teatro Coliseo" },
   { date: "2026-02-12", band: "Enforcer", city: "Club Ambar" },
-  { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
-    { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
+   { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
   { date: "2026-03-07", band: "Epic rock fest", city: "Club Hipico" },
   { date: "2026-03-11", band: "AC/DC", city: "Parque Estadio Nacional" },
   { date: "2026-03-13", band: "DRI", city: "Teatro Caupolican" },
   { date: "2026-03-14", band: "Nile", city: "Teatro Cariola" },
+    { date: "2026-03-19", band: "Draconian, city: "Sala metronomo" },
   { date: "2026-04-22", band: "Fear Factory", city: "Teatro Caupolican" },
   { date: "2026-04-24", band: "Nevermore", city: "Teatro Cariola" },
   { date: "2026-04-26", band: "Tankard", city: "Blondie" },
   { date: "2026-04-30", band: "Midnight", city: "Sala Metronomo" },
+   { date: "2026-05-04", band: "Megadeth", city: "Sala Movistar" },
+     { date: "2026-05-05", band: "Megadeth", city: "Sala Movistar" },
+
   
 
 
