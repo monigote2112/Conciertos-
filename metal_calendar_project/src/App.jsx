@@ -11,6 +11,9 @@ const events = [
   { date: "2026-03-07", band: "Epic rock fest", city: "Club Hipico" },
   { date: "2026-03-13", band: "DRI", city: "Teatro Caupolican" },
   { date: "2026-03-14", band: "Nile", city: "Teatro Cariola" },
+  { date: "2026-04-22", band: "Fear Factory", city: "Teatro Caupolican" },
+  { date: "2026-04-26", band: "Tankard", city: "Blondie" },
+  { date: "2026-04-30", band: "Midnight", city: "Sala Metronomo" },
   
 
 
