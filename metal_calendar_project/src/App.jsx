@@ -1,8 +1,14 @@
 import React from 'react'
 
 const events = [
-  { date: "2025-01-20", band: "Amon Amarth", city: "Santiago" },
-  { date: "2025-02-14", band: "Gojira", city: "Concepción" },
+  { date: "2026-01-12", band: "Corrosion Of Comformity", city: "Sala Metronomo" },
+  { date: "2026-01-15", band: "Cynic", city: "Blondie" },
+    { date: "2026-01-17", band: "DEATH + Destruction", city: "Teatro Caupolican" },
+    { date: "2026-02-06", band: "FORBIDDEN + VIOLENCE + VENOM INC", city: "Teatro Coliseo" },
+  { date: "2026-02-12", band: "Enforcer", city: "Club Ambar" },
+  { date: "2026-02-14", band: "Obituary", city: "Teatro Cariola" },
+  
+
 ];
 
 export default function App() {
